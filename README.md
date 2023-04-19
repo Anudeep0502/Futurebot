@@ -2,7 +2,7 @@
 Cryptocurrency Trading Signal Generator:
 This is a Python script for a trading bot that retrieves market data from the KuCoin API, performs technical analysis on the data to generate trading signals, and sends email notifications to the user when a signal is triggered. 
 
-The script is defined in a class called FutureBot which has the following methods:
+The script is defined in a class called cryptobot which has the following methods:
 
 __init__(self): Initializes the class with various parameters including the API URL, symbol, time interval, start time, API key, API secret, and present signal.
 
